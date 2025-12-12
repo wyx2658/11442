@@ -3,7 +3,7 @@
     "panels": {
         "mihomo": [
             {
-                "url": "https://biubiu2.youxuan.wiki",
+                "url": "http://192.168.3.216",
                 "description": "主面板"
             }
         ]
@@ -24,3 +24,4 @@
         }
     ]
 }
+
