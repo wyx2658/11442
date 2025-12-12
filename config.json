@@ -3,7 +3,7 @@
     "panels": {
         "mihomo": [
             {
-                "url": "http://192.168.3.216",
+                "url": "https://newzd.care-kids.org",
                 "description": "主面板"
             }
         ]
@@ -24,4 +24,5 @@
         }
     ]
 }
+
 
