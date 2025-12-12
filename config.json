@@ -2,7 +2,7 @@
     "panels": {
         "mihomo": [
             {
-                "url": "http://192.168.3.216",
+                "url": "https://biubiu2.youxuan.wiki",
                 "description": "自动生成的域名 - wujie"
             },
             {
@@ -136,4 +136,5 @@
         ]
     }
 }
+
 
