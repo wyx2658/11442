@@ -1,9 +1,9 @@
 {
-    "panelType": "xboard",
+    "panelType": "v2board",
     "panels": {
         "mihomo": [
             {
-                "url": "https://p.stynp123.icu",
+                "url": "http://192.168.3.216",
                 "description": "主面板"
             }
         ]
@@ -24,6 +24,7 @@
         }
     ]
 }
+
 
 
 
