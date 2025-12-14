@@ -3,7 +3,7 @@
     "panels": {
         "mihomo": [
             {
-                "url": "https://api.goulian.cc",
+                "url": "https://www.elphantroute.com",
                 "description": "主面板"
             }
         ]
@@ -24,6 +24,7 @@
         }
     ]
 }
+
 
 
 
