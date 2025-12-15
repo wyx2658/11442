@@ -1,9 +1,9 @@
 {
-    "panelType": "xboard",
+    "panelType": "goulian",
     "panels": {
         "mihomo": [
             {
-                "url": "https://www.elphantroute.com",
+                "url": "https://api.goulian.cc",
                 "description": "主面板"
             }
         ]
@@ -24,6 +24,7 @@
         }
     ]
 }
+
 
 
 
