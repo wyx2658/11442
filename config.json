@@ -1,9 +1,9 @@
 {
-    "panelType": "goulian",
+    "panelType": "xboard",
     "panels": {
         "mihomo": [
             {
-                "url": "https://api.goulian.cc",
+                "url": "https://vip12.stableconnect.cloud",
                 "description": "主面板"
             }
         ]
@@ -24,6 +24,7 @@
         }
     ]
 }
+
 
 
 
