@@ -4,34 +4,8 @@
         "mihomo": [
             {
                 "url": "https://goulian.goulian.cc",
-                "description": "主面板"
+                "description": "你的面板"
             }
         ]
-    },
-    "onlineSupport": [
-        {
-            "url": "https://chat.example.com",
-            "description": "在线客服",
-            "apiBaseUrl": "https://chat.example.com",
-            "wsBaseUrl": "wss://chat.example.com"
-        }
-    ],
-    "proxy": [
-        {
-            "url": "socks5://username:password@proxy.example.com:38769",
-            "description": "代理服务器(强烈建议配置)",
-            "protocol": "s5"
-        }
-    ]
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
