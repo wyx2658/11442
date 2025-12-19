@@ -1,5 +1,5 @@
 {
-    "panelType": "goulian",
+    "panelType": "v2board",
     "panels": {
         "mihomo": [
             {
@@ -24,6 +24,7 @@
         }
     ]
 }
+
 
 
 
