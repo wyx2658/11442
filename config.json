@@ -1,9 +1,9 @@
 {
-    "panelType": "xv2b",
+    "panelType": "v2board",
     "panels": {
         "mihomo": [
             {
-                "url": "https://goulian.goulian.cc",
+                "url": "https://www.clm04.me",
                 "description": "主面板"
             }
         ]
@@ -24,5 +24,6 @@
         }
     ]
 }
+
 
 
