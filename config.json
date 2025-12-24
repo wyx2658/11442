@@ -1,5 +1,5 @@
 {
-    "panelType": "v2board",
+    "panelType": "xboard",
     "panels": {
         "mihomo": [
             {
@@ -24,4 +24,5 @@
         }
     ]
 }
+
 
